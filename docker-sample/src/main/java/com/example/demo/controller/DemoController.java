@@ -8,6 +8,6 @@ public class DemoController {
 
 	@RequestMapping("/getResponse")
 	public String getResponse() {
-		return "response returne!";
+		return "response returned!";
 	}
 }
