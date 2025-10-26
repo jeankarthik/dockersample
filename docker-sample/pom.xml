@@ -52,10 +52,10 @@
 	            <groupId>org.apache.maven.plugins</groupId>
 	            <artifactId>maven-compiler-plugin</artifactId>
 	            <configuration>
-	                <source>1.8</source>
-	                <target>1.8</target>
+	                <source>17</source>
+	                <target>17</target>
 	                <fork>true</fork>
-	                <executable>C:\Program Files\Java\jdk1.8.0_291\bin\javac</executable>
+	                <!--<executable>C:\Program Files\Java\jdk1.8.0_291\bin\javac</executable>-->
 	            </configuration>
         	</plugin> 
 		</plugins>
